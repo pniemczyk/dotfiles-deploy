@@ -129,7 +129,6 @@ fi
 export CDPATH=.:~:/etc:~/git
 
 export GREP_COLORS='ms=01;34:mc=01;34:sl=:cx=:fn=35:ln=32:bn=32:se=36'
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
 export LANGUAGE='pl_PL.UTF-8'
 export LC_ALL='pl_PL.UTF-8'
 export LC_PAPER='pl_PL.UTF-8'

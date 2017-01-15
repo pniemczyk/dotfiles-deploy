@@ -1,0 +1,68 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "LF",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"find_selected_text": true,
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".elasticbeanstalk",
+		"coverage",
+		"tmp/cache",
+		"tmp/pids",
+		"tmp/sessions",
+		"tmp/sockets",
+		"tmp/miniprofiler",
+		"reports/rcov"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"no_italic"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"margin": 2,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		72,
+		79
+	],
+	"scroll_past_end": false,
+	"scroll_speed": 10.0,
+	"show_full_path": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": false
+}
